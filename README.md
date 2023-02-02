@@ -1,5 +1,5 @@
 # Machine-Learning-Study
-Compilation of study notes that follow [this roadmap](https://github.com/graykode/nlp-roadmap#probability--statistics)
+(2022.08~) Compilation of study notes that follow [this roadmap](https://github.com/graykode/nlp-roadmap#probability--statistics)
 
 ## Probability & Statistics
 ![alt text](https://github.com/graykode/nlp-roadmap/raw/master/img/prob.png)

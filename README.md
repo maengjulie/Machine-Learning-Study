@@ -5,3 +5,5 @@
 ![alt text](https://github.com/graykode/nlp-roadmap/raw/master/img/prob.png)
 ## Machine Learning
 ![alt text](https://github.com/graykode/nlp-roadmap/raw/master/img/ml.png)
+## Natural Language Processing
+![alt text](https://github.com/graykode/nlp-roadmap/blob/master/img/nlp.png)
